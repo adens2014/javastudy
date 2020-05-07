@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\MyWork\\Project\\JavaStudy\\JavaProject"
+		}
+	],
+	"settings": {
+		"java.home": "C:\\Program Files\\Java\\jdk1.8.0_161",
+		"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+		"java.configuration.checkProjectSettingsExclusions": false,
+		"workbench.editor.revealIfOpen": true
+	}
+}

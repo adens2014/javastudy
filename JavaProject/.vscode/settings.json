@@ -1,0 +1,17 @@
+{
+    "java.home":"C:\\Program Files\\Java\\jdk1.8.0_161", 
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.fontSize": 16,
+    "files.autoGuessEncoding":true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.editor.revealIfOpen": true
+    
+    
+}
