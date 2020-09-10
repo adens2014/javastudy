@@ -8,6 +8,7 @@ import java.util.*;
 public class Study1 {
 	public static void main(String[] args) throws Exception {
 		TestRuntime();
+		PrintParams("我","是","一个","可变参数，","我","只能","有一个");
 	}
 
 	/*
@@ -64,6 +65,13 @@ public class Study1 {
 
 	public static void pl(String str) {
 		System.out.println(str);
+	}
+	public static void PrintParams(String... myParams)
+	{
+		for (String string : myParams) {
+			System.out.println(string+"");
+			
+		}
 	}
 
 }
