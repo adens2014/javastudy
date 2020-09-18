@@ -5,6 +5,20 @@
       "version": "0.2.0",
       "configurations": [
             {
+                  "type": "java",
+                  "name": "CodeLens (Launch) - Study1",
+                  "request": "launch",
+                  "mainClass": "com.java.study.Study1",
+                  "projectName": "JavaProject"
+            },
+            {
+                  "type": "java",
+                  "name": "CodeLens (Launch) - test1",
+                  "request": "launch",
+                  "mainClass": "com.java.study.test1",
+                  "projectName": "JavaProject"
+            },
+            {
                   "name": "Java",
                   "type": "java",
                   "request": "launch",
