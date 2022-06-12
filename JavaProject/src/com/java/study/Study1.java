@@ -8,7 +8,8 @@ import java.util.*;
 public class Study1 {
 	public static void main(String[] args) throws Exception {
 		TestRuntime();
-		PrintParams("我","是","一个","可变参数，","我","只能","有一个");
+		PrintParams("我1","是2","一个3","可变参数，4","我","只能","有一个");
+		pl("我是一个99999999999999999");
 	}
 
 	/*
@@ -54,7 +55,7 @@ public class Study1 {
 
 	public static void TestRuntime() throws Exception {
 		Runtime rt = Runtime.getRuntime();
-		pl("处理器数：" + rt.availableProcessors());
+		pl("处理器：" + rt.availableProcessors());
 		pl("最大内存：" + (rt.maxMemory() / 1024));
 		pl("空闲内存：" + (rt.freeMemory() / 1024));
 		pl("即将打开notepad.exe");

@@ -6,6 +6,13 @@
       "configurations": [
             {
                   "type": "java",
+                  "name": "Launch MyHello",
+                  "request": "launch",
+                  "mainClass": "MyHello",
+                  "projectName": "JavaProject"
+            },
+            {
+                  "type": "java",
                   "name": "CodeLens (Launch) - Study1",
                   "request": "launch",
                   "mainClass": "com.java.study.Study1",
